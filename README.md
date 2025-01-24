@@ -1,4 +1,4 @@
-file 1 : Contains has preprocessing steps
+notes.ipynb : Contains has preprocessing steps
   - it loads data
   - null value handling
   - outlier handling
@@ -10,7 +10,7 @@ file 1 : Contains has preprocessing steps
     Class 1 : is for
     Class 2 : 
 
-File 2 : contains model building classes 
+Classification_models.ipynb : contains model building classes 
 
 
 File 3 : uses file 1 and 2 to do the training using different algorithms 
